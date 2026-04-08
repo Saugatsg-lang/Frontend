@@ -1,0 +1,1 @@
+export const BRANDS = ["UrbanEdge","ModernCo","LuxCraft","BloomWear","GoldAura","ActiveGear","DenimCo","SilkLux","TrekStyle","CozyKnit","BohoChic","CraftLeather"]

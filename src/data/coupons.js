@@ -1,0 +1,1 @@
+export const COUPONS = { SAVE10: 10, SAVE20: 20, SMARTSHOP: 15, WELCOME: 25 }
